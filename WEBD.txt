@@ -1,0 +1,24 @@
+https://ClearlyDecoded.com
+
+The following is a link to a GitHub.com repository we are using for this course:
+
+https://github.com/jhu-ep-coursera/fullstack-course4
+
+It contains:
+
+Source code for ALL examples used in this course
+Lecture Slide PDFs
+Starter code for end of module assignments.
+Feel free to download it as a zip file, or 'git clone' it to your local machine.
+Cloning it through GIT is the preferred method as you will be able to do a simple 
+'git pull' to update it when whatever updates come out.
+
+Introduction to HTML
+Tools
+1.Github.com
+2.Google chrome comes with chrome develpers tools
+3.Sublime Text 3 (code editor)
+4.Git
+5.Browser sync - Need to install NodeJs for it to work
+
+something to edit
